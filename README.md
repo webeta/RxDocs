@@ -1,5 +1,7 @@
 # ReactiveX/RxJava文档中文版
 
+> 本开源书 forked from [ReactiveX/RxJava文档中文版](https://github.com/mcxiaoke/RxDocs)，作者为 [mcxiaoke](https://github.com/mcxiaoke)，欢迎大家 star 原作者的 [repo](https://github.com/mcxiaoke/RxDocs)，以便获得最新更新，谢谢！
+
 **项目地址：<https://github.com/mcxiaoke/RxDocs>，欢迎Star和帮忙改进。**
 
 有任何意见或建议，到这里提出 [Create New Issue](https://github.com/mcxiaoke/RxDocs/issues/new)
